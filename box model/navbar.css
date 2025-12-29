@@ -1,0 +1,32 @@
+div{
+    background-color: black;
+    height: 60px;
+}
+#text{
+    color: orangered;
+    text-size-adjust: 25;
+    margin-right: 200px;
+}
+#link{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+    
+}
+#cart{
+    color:white;
+    text-decoration: none;
+    margin-right: 200px;
+
+}
+#contact{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+
+}
+#search{
+    color:#f08804;
+    
+
+}

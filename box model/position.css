@@ -1,0 +1,51 @@
+#id1{
+    background-color: red;
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    position: static;
+    top: 10px;
+    z-index: 6;
+}
+#id2{
+    background-color: green;
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    z-index: 1;
+}
+#id3{
+    background-color: blue;
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+
+}
+#id4{
+    background-color: yellow;
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    position: fixed;
+    top: 300px;
+}
+#id5{
+    background-color: brown;
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    left: 300px;
+    margin-top: 80px;
+}
