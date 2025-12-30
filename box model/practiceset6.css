@@ -1,0 +1,28 @@
+div{
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    /* justify-content: center; 
+    align-items: center;
+} */
+/* #id1{
+    background-color: white;
+    width: 150px;
+    height: 150px; */
+}
+#link{
+    color: white;
+
+}
+#contact{
+   color: white;
+
+}
+#cart{
+    color: white;
+}
+#media{
+    color: white;
+}
